@@ -103,8 +103,8 @@
 야무야무 10강 참고
 
 
-> "It’s NOT Flexible,"<br>
-> "It’s NOT Responsive Web Design"
+>"It’s NOT Flexible,"<br>
+>"It’s NOT Responsive Web Design"
 
 
 
