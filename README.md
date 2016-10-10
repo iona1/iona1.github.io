@@ -71,11 +71,11 @@
 ## 이미지
 
 ```html
-<img src="http://cfile9.uf.tistory.com/image/013528355096470421E6F0" alt="ponyo">
+<img src="http://i.imgur.com/tt2vKVM.gif" alt="ponyo">
 ```
 
 
-![ponyo](http://cfile9.uf.tistory.com/image/013528355096470421E6F0)
+![ponyo](http://i.imgur.com/tt2vKVM.gif)
 
 
 
