@@ -104,7 +104,7 @@
 
 
 > "It’s NOT Flexible,"<br>
-"It’s NOT Responsive Web Design"
+> "It’s NOT Responsive Web Design"
 
 
 
