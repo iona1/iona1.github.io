@@ -24,9 +24,9 @@ h1 {
 @keyframes wiggle {
 
 	0%, 50%, 100% { 
-		text-shadow: 0 0 10px #3e180d; transform: scale(1); 
+		text-shadow: 0 0 10px #3e180d; opacity: 0; 
 	}
 	25%, 75% { 
-		text-shadow: 0 0 2px #3e180d; transform: scale(1.3); 
+		text-shadow: 0 0 2px #3e180d; opacity: 1; 
 	}
 }
