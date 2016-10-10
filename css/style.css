@@ -16,7 +16,7 @@ h1 {
 
 	margin: 0;
 	font-weight: 100;
-	font-size: 4rem;
+	font-size: 5rem;
 	animation: wiggle 10s infinite;
 }
 
@@ -24,7 +24,7 @@ h1 {
 @keyframes wiggle {
 
 	0%, 50%, 100% { 
-		text-shadow: 0 0 10px #3e180d; opacity: 0.6; 
+		text-shadow: 0 0 10px #3e180d; opacity: 0.3; 
 	}
 	25%, 75% { 
 		text-shadow: 0 0 4px #3e180d; opacity: 1; 
