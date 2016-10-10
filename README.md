@@ -96,6 +96,16 @@
 
 
 
+##인용 구문
+
+
+이롭게가 추천한 디자이너에게 영감을 주는 사이트<br>
+야무야무 10강 참고
+
+
+> "It’s NOT Flexible,"<br>
+"It’s NOT Responsive Web Design"
+
 
 
 
