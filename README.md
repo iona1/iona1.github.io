@@ -76,12 +76,8 @@
 
 ```
 
-
-![ponyo](http://i.imgur.com/tt2vKVM.gif)
-
-
 <img src="http://i.imgur.com/tt2vKVM.gif" alt="ponyo" width="250" height="140">
-
+![ponyo](http://i.imgur.com/tt2vKVM.gif)
 ![ponyo](Assets/JJang.gif)
 
 
