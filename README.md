@@ -75,7 +75,7 @@
 ```
 
 
-! [ponyo] (http://cfile9.uf.tistory.com/image/013528355096470421E6F0)
+! [ponyo](http://cfile9.uf.tistory.com/image/013528355096470421E6F0)
 
 
 
