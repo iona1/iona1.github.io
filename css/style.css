@@ -17,14 +17,14 @@ h1 {
 	margin: 0;
 	font-weight: 100;
 	font-size: 5rem;
-	animation: wiggle 10s infinite;
+	animation: wiggle 8s infinite;
 }
 
 
 @keyframes wiggle {
 
 	0%, 50%, 100% { 
-		text-shadow: 0 0 10px #3e180d; opacity: 0.3; 
+		text-shadow: 0 0 10px #3e180d; opacity: 0.31; 
 	}
 	25%, 75% { 
 		text-shadow: 0 0 4px #3e180d; opacity: 1; 
