@@ -38,8 +38,6 @@
 
 
 
-
-
 ## 목록
 
 ```html
@@ -70,6 +68,14 @@
 
 
 
+## 이미지
+
+```html
+<img src="http://cfile9.uf.tistory.com/image/013528355096470421E6F0" alt="ponyo">
+```
+
+
+! [ponyo] (http://cfile9.uf.tistory.com/image/013528355096470421E6F0)
 
 
 
