@@ -2,8 +2,23 @@
 /*브라우저 초기화*/
 
 body {
+	min-height: 100vh;
 	margin: 0;
 	font: 1.375rem/1.5 "Spoqa Han Sans";
 	color: #fff;
-	background: #000 url(../assets/bg_rose.jpg) no-repeat center top;
+	background: url("../Assets/bg_rose.jpg");
+}
+
+h1 {
+
+	margin: 0;
+	font-weight: 200;
+	font-size: ;5rem
+}
+
+
+@keyframes wiggle {
+
+	0%, 50%, 100% { text-shadow: 0 0 10px #ffffff; }
+	25%, 75% { text-shadow: 0 0 2px #ffffff; }
 }
