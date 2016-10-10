@@ -14,7 +14,7 @@
 
 ```html
 
-//* 코드컬러링 입력 *//
+<!-- 코드컬러링 입력 !-->
 <h1>heading 1</h1>
 <h2>heading 2</h2>
 <h3>heading 3</h3>
@@ -82,7 +82,7 @@
 
 <img src="http://i.imgur.com/tt2vKVM.gif" alt="ponyo" width="250" height="140">
 
-
+![ponyo](Assets/JJang.gif)
 
 
 
