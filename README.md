@@ -116,6 +116,6 @@ Job Type | Role
 ---|---
 Planner | plan
 Designer | Design
-Developer | develop
+Developer | develop 
 
 
