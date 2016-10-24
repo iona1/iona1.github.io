@@ -1,0 +1,40 @@
+body { margin: 4em; }
+
+
+.hc-table {
+	/*셀 사이 간격을 접음*/
+	border-collapse: collapse;
+	font-family: "YouandiModernTR";
+}
+
+
+.hc-table,
+.hc-table th,
+.hc-table td { 
+	border: 1px solid #ccc;
+ }
+
+ .hc-table th,
+.hc-table td { 
+	padding: 1em;
+ }
+
+.hc-table th {
+	/*글 덩어리를 왼쪽으로 정렬*/
+	text-align: left;
+	/*글꼴을 두꺼운 서체로 설정했기 때문에 폰트weight는 normal로 설정해도 두꺼운 서체로 적용된다. */
+	font-family: "YouandiModernTB";
+	font-weight: normal;
+	background-color: #f9f9f9;
+}
+
+
+
+.hc-section {
+	margin-top: 3em;
+}
+
+ .hc-section h1 { 
+	font-family: "YouandiModernHEB"; 
+	font-weight: normal;
+}
